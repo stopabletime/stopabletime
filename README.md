@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Navee
+- 👋 Hi, I’m @Naveen
 - 👀 I’m interested in coding and web designing
 - 🌱 I’m currently learning C, HTML and CSS
-- 💞️ I’m looking to work with someone who can guide me
 - 📫 To reach me, Here is my email stopabletime@gmail.com
 
 <!---
